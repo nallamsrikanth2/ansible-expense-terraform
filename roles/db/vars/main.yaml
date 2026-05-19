@@ -1,3 +1,4 @@
 login_host: db.nsrikanth.online
 login_password: ExpenseApp@1
 login_user: root
+componet: db
