@@ -3,3 +3,4 @@ login_host: db.nsrikanth.online
 login_user: root
 login_password: ExpenseApp@1
 component: backend
+app_location: /app
