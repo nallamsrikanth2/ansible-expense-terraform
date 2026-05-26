@@ -3,6 +3,6 @@
   connection: local
   become: yes
   vars_files:
-    "variable-{{environment}}.yaml"
+  - "variable-{{environment}}.yaml"
   roles:
   - "{{component}}"
