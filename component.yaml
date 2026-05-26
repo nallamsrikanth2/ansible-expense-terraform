@@ -1,5 +1,5 @@
 - name: configure the {{component}} server
-  hosts: localhost
+  hosts: all
   connection: local
   become: yes
   vars_files:
