@@ -2,3 +2,4 @@ DB_HOST: db-dev.nsrikanth.online
 login_host: db-dev.nsrikanth.online
 login_user: root
 login_password: ExpenseApp1
+BACKEND_HOST: backend.app-dev.nsrikanth.online
